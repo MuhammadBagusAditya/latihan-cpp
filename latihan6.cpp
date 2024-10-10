@@ -12,17 +12,17 @@ int main()
     cout << "----------------" << endl;
 
     hasil = x > y;
-    cout << "x > y = " << hasil << endl;
+    cout << "x > y : " << hasil << endl;
 
     cout << "----------------" << endl;
 
     hasil = x < y;
-    cout << "x < y = " << hasil << endl;
+    cout << "x < y : " << hasil << endl;
 
     cout << "----------------" << endl;
 
     hasil = x == y;
-    cout << "x == y = " << hasil << endl;
+    cout << "x == y : " << hasil << endl;
 
     return 0;
 }
